@@ -1,7 +1,7 @@
 # SimpliXio — Decides what matters
 ### Decision → Execution → Feedback → Learning
 
-![Cortex Mind System](https://github.com/user-attachments/assets/5fcc8574-5481-4a6c-8e30-cec1fb228de0 "From Noise to Clarity. Signal → Decision → Action")
+![Focus On What Matters Today](https://github.com/user-attachments/assets/77106c0a-e67a-4535-8e22-e7c0a05c56e7 "From Noise to Clarity. Signal → Decision → Action")
 
 A system that decides what matters. Intelligence layer for decisions.
 
